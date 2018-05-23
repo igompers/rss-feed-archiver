@@ -1,0 +1,4 @@
+/feedparser
+.config
+.config.template
+rss_feed_source_list
